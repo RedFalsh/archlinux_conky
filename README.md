@@ -30,3 +30,10 @@ archlinux_conky设置，包括conky-lua 、 conky harmattan
 `conky`
 
 > 注：conkyrc中显示温度的符号可能出错，需要相应的系统编码，可以去掉温度显示
+
+
+## conky harmattan
+
+**参考** 
+
+* [zagortenay333/Harmattan](https://github.com/zagortenay333/Harmattan)
